@@ -36,42 +36,49 @@ Após isso, os dados foram tratados dentro do Excel, com a disponibilização da
 
 660 (sendo eles Aptos e Inaptos)
 
-Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?
+2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?
 
 130 Candidatos
 
-Quais candidatos do estado do Amazonas não se vacinaram em Manaus?
+3 - Quais candidatos do estado do Amazonas não se vacinaram em Manaus?
 
-✔ NãoVacinadosNascidosManaus.xls
+✔ Abrir o arquivo deste projeto com o nome  -- >> NãoVacinadosNascidosManaus.xls
 
-Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?
+4 - Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?
 
-R.Não tem candidatos a Presidencia e 2 para Governadores;
-
-    AMAZONINO ARMANDO MENDES
-    NAIR QUEIROZ BLAIR
+R.Não tem candidatos a Presidencia e 2 para Governadores(AMAZONINO ARMANDO MENDES e NAIR QUEIROZ BLAIR)
     
-Quantos candidatos no estado do Amazonas nasceram em Manaus?
+5 - Quantos candidatos no estado do Amazonas nasceram em Manaus?
 
-38
+R. 38 candidatos.
  
-Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?
+6 - Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?
 
-		
-Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?
-		1 candidata 
-		ANA CLAUDIA MARTINS TOMAS
+AGIR	5
+PDT	4
+SOLIDARIEDADE	4
+PL	3
+PSD	3
+PTB	3
+MDB	2
+PROS	2
+PSC	2
+PSDB	2
+PV	2
+UNIÃO	2
+AVANTE	1
+PATRIOTA	1
+PMB	1
+PMN	1
 
-Qual era a cor/raça predominante dos candidatos nascidos em Manaus?
-
-	
+![image](https://user-images.githubusercontent.com/114266007/194380275-e92f6fe1-cc07-45eb-bc99-8be31a282c1e.png)
 
 
-Em 47, PARDA teve o maior Contagem de nm_candidato e foi 840,00% maior do que INDÍGENA, que teve o menor Contagem de nm_candidato em 5.
+7 - Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?
 
-﻿PARDA teve o maior Contagem de nm_candidato em 47, seguido por BRANCA, PRETA e INDÍGENA.
+R. 1 candidata, ANA CLAUDIA MARTINS TOMAS
 
-﻿PARDA contabilizou 54,02% de Contagem de nm_candidato
+8 - Qual era a cor/raça predominante dos candidatos nascidos em Manaus?
 
-﻿Em todos os 4 DS_COR_RACA, Contagem de nm_candidato variou de 5 para 47.
+R. Em 47, PARDA teve o maior Contagem de Candidato e foi 840,00% maior do que INDÍGENA, que teve o menor Contagem de Candidato em 5. PARDA teve o maior Contagem de Candidato em 47, seguido por BRANCA, PRETA e INDÍGENA. PARDA contabilizou 54,02% de Contagem de Candidato. Em todos os 4 DS_COR_RACA, Contagem de Candidato variou de 5 para 47.
 
