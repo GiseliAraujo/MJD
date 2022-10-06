@@ -1,8 +1,8 @@
 # MJD
 
-Trabalhos do Master em Jornalismo de Dados
+***TRABALHO DO MASTER EM JORNALISMO DE DADOS****
 
-Candidatos de Manaus não vacinados na cidade de Manaus
+___Tema: Candidatos de Manaus não vacinados na cidade de Manaus___
 
 Este repositório contém o projeto final da disciplina "Fundamentos e Ética do Jornalismo de Dados", do curso Master de Jornalismo de Dados, Automação e Storytelling, do Insper. 
 
@@ -30,42 +30,42 @@ Após isso, os dados foram tratados dentro do Excel, com a disponibilização da
 
 ✔ CSV - clique aqui para ler e baixar o arquivo.
 
-CONTEXTO DO TEMA
+***#CONTEXTO DO TEMA***
 
 O grupo escolheu cruzar tais dados sobre candidatos não vacinados na cidade de Manaus, pois a capital amazonense ganhou repercussão internacional com a falta de oxigênio e o uso de medicamentos reconhecidamente ineficazes para o tratamento da covid-19 durante a pandemia. Daí o interesse em saber se atores que estavam se postulando a um cargo político não teriam deixado de tomar a vacina. A partir de tais nomes, o grupo seguiria uma investigação mais aprofundada sobre essas pessoas.
 
-#Perguntas
+***#PERGUNTAS***
 
-1 - Há quantos candidatos no estado do Amazonas?
+___1 - Há quantos candidatos no estado do Amazonas?___
 
 660 (sendo eles Aptos e Inaptos)
 
-2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?
+___2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?___
 
 130 Candidatos
 
-3 - Quais candidatos do estado do Amazonas não se vacinaram em Manaus?
+___3 - Quais candidatos do estado do Amazonas não se vacinaram em Manaus?___
 
 ✔ Abrir o arquivo deste projeto com o nome  -- >> NãoVacinadosNascidosManaus.xls
 
-4 - Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?
+___4 - Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?___
 
 R.Não tem candidatos a Presidencia e 2 para Governadores(AMAZONINO ARMANDO MENDES e NAIR QUEIROZ BLAIR)
     
-5 - Quantos candidatos no estado do Amazonas nasceram em Manaus?
+___5 - Quantos candidatos no estado do Amazonas nasceram em Manaus?___
 
 R. 38 candidatos.
  
-6 - Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?
+___6 - Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?____
 
 ![image](https://user-images.githubusercontent.com/114266007/194380275-e92f6fe1-cc07-45eb-bc99-8be31a282c1e.png)
 
 
-7 - Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?
+___7 - Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?___
 
 R. 1 candidata, ANA CLAUDIA MARTINS TOMAS
 
-8 - Qual era a cor/raça predominante dos candidatos nascidos em Manaus?
+___8 - Qual era a cor/raça predominante dos candidatos nascidos em Manaus?___
 
 ![image](https://user-images.githubusercontent.com/114266007/194381013-61547351-51ec-4241-ab61-a9dbd77a2e63.png)
 
