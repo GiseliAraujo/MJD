@@ -13,11 +13,13 @@ O grupo utilizou duas bases de dados para o trabalho. A primeira é fornecida pe
 Esta primeira base tem dados desagregados por nome dos candidatos, cidade de origem, documento (CPF), partido e cargo postulante. O TSE fornece tais dados em documentos no formato CSV.
 
 👨‍💻Notebook - Clique aqui para ler e baixar o arquivo.
+
 ✔CSV - Clique aqui para ler e baixar o arquivo.
 
 A segunda base é disponibilizada pela Secretaria Municipal de Saúde do município de Manaus e apresenta dados de todas as pessoas vacinadas na cidade no período de 28 de agosto de 2021 a 21 de setembro de 2022. A secretaria fornece tais dados em documentos no formato PDF.
 
 👨‍💻Notebook - Clique aqui para ler e baixar o arquivo.
+
 ✔CSV - Clique aqui para ler e baixar o arquivo.
 
 O trabalho final buscava cruzar as duas bases e descobrir quais candidatos a cargos políticos em 2022, nascidos em Manaus, não tinham tomado a vacina na cidade neste período indicado pela tabela. Como o documento da Prefeitura de Manaus estavam disponibilizados em formato PDF, primeiro foi preciso fazer uma conversão do arquivo para algum outro formato em que se pudesse extrair os dados.
@@ -28,20 +30,31 @@ Após isso, os dados foram tratados dentro do Excel, com a disponibilização da
 
 ✔ CSV - clique aqui para ler e baixar o arquivo.
 
-Perguntas
+#Perguntas
 
-Há quantos candidatos no estado do Amazonas?
+1 - Há quantos candidatos no estado do Amazonas?
+
 660 (sendo eles Aptos e Inaptos)
+
 Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?
+
 130 Candidatos
+
 Quais candidatos do estado do Amazonas não se vacinaram em Manaus?
-NãoVacinadosNascidosManaus.xls
+
+✔ NãoVacinadosNascidosManaus.xls
+
 Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?
-Não tem candidatos a Presidencia e 2 para Governadores;
-AMAZONINO ARMANDO MENDES
-NAIR QUEIROZ BLAIR
+
+R.Não tem candidatos a Presidencia e 2 para Governadores;
+
+    AMAZONINO ARMANDO MENDES
+    NAIR QUEIROZ BLAIR
+    
 Quantos candidatos no estado do Amazonas nasceram em Manaus?
+
 38
+ 
 Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?
 
 		
