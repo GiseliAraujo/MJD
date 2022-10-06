@@ -68,3 +68,10 @@ R. 1 candidata, ANA CLAUDIA MARTINS TOMAS
 
 R. Em 47, PARDA teve o maior Contagem de Candidato e foi 840,00% maior do que INDÍGENA, que teve o menor Contagem de Candidato em 5. PARDA teve o maior Contagem de Candidato em 47, seguido por BRANCA, PRETA e INDÍGENA. PARDA contabilizou 54,02% de Contagem de Candidato. Em todos os 4 DS_COR_RACA, Contagem de Candidato variou de 5 para 47.
 
+Caminhos possíveis a serem seguido para realização de pauta, com os insights obtidos por meio da análise de dados:
+
+1. Confirmar quais candidatos nascidos em Manaus realmente não tomaram vacina contra Covid-19 e cruzar com sua atuação durante a pandemia. Quem não tomou vacina foi considerado negacionista? Incentivou o uso de cloroquina e tratamento precoce? Preconizou contra a origem das vacinas, principalmente a Coronavac? Sua posição política é alinhada com o governo?
+
+2. Quem são os políticos não-vacinados dos partidos com maior número de não-vacinados (Agir, PDT e Solidariedade) em Manaus? Qual o alinhamento político de cada um desses candidatos? Eles defenderam o tratamento precoce e o uso da cloroquina? Em caso de políticos que concorriam a eleição, destinaram verbas ou promoveram políticas públicas em prol de outros tratamentos que não a vacinação contra a Covid-19?
+
+3. A candidata indígena Ana Claudia Martins Tomas não tomou a vacina em Manaus. Ela realmente não foi vacinada? Se sim, quais as alegações? Lembrar-se que houve uma rejeição à vacinação por parte da população indígena devido a influência das comunidades evangélicas.
