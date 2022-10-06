@@ -27,3 +27,38 @@ Quando utilizadas ferramentas gratuitas de conversores de arquivo PDF, não foi 
 Após isso, os dados foram tratados dentro do Excel, com a disponibilização das informações em colunas. Terminado esse tratamento, o documento foi importado para o SQL Server em tabela nomeada “Vacinados_AM”. Após a seleção da tabela, várias linhas ficaram sem a informação da faixa etária da pessoa vacinada, mas o documento final apresentou todos os números de CPF e também a data de vacinação –o que  já era suficiente para o trabalho de cruzamento planejado.
 
 ✔ CSV - clique aqui para ler e baixar o arquivo.
+
+Perguntas
+
+Há quantos candidatos no estado do Amazonas?
+660 (sendo eles Aptos e Inaptos)
+Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?
+130 Candidatos
+Quais candidatos do estado do Amazonas não se vacinaram em Manaus?
+NãoVacinadosNascidosManaus.xls
+Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?
+Não tem candidatos a Presidencia e 2 para Governadores;
+AMAZONINO ARMANDO MENDES
+NAIR QUEIROZ BLAIR
+Quantos candidatos no estado do Amazonas nasceram em Manaus?
+38
+Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?
+
+		
+Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?
+		1 candidata 
+		ANA CLAUDIA MARTINS TOMAS
+
+Qual era a cor/raça predominante dos candidatos nascidos em Manaus?
+
+	
+
+
+Em 47, PARDA teve o maior Contagem de nm_candidato e foi 840,00% maior do que INDÍGENA, que teve o menor Contagem de nm_candidato em 5.
+
+﻿PARDA teve o maior Contagem de nm_candidato em 47, seguido por BRANCA, PRETA e INDÍGENA.
+
+﻿PARDA contabilizou 54,02% de Contagem de nm_candidato
+
+﻿Em todos os 4 DS_COR_RACA, Contagem de nm_candidato variou de 5 para 47.
+
