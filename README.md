@@ -50,6 +50,12 @@ ___2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?___
   ` AND NOT EXISTS (SELECT *` 
                     ` FROM [Vacinados_AM]`
                     `WHERE CPF = c.Nr_cpf_candidato)`
+                    
+                    ```js  
+
+Console.log(3 > 2) 
+
+```
 
 ___3 - Quais candidatos do estado do Amazonas não se vacinaram em Manaus?___
 
