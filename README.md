@@ -29,7 +29,7 @@ Após isso, os dados foram tratados dentro do Excel, com a disponibilização da
 
 Para construção da estrutura do Banco de dados, criamos um banco de dados chamado Amazonas com duas tabelas, contidas neste documento a seguir;
 
-✔ clique aqui para acessar o ([Dicionario de dados](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Dicionário de Dados.pdf))
+✔ clique aqui para acessar o ([Dicionario de dados](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Dicionário%de%Dados.pdf))
 
 ***#CONTEXTO DO TEMA***
 
