@@ -37,8 +37,8 @@ ___1 - Há quantos candidatos no estado do Amazonas?___
 
 660 (sendo eles Aptos e Inaptos)
 
-```SELECT Count(nm_candidato) 
-   FROM candidatos2022 ´´´
+`SELECT Count(nm_candidato) ´
+`   FROM candidatos2022 ´
 
 ___2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?___
 
