@@ -6,7 +6,7 @@ ___Tema: Candidatos de Manaus não vacinados na cidade de Manaus___
 
 Este repositório contém o projeto final da disciplina "Fundamentos e Ética do Jornalismo de Dados", do curso Master de Jornalismo de Dados, Automação e Storytelling, do Insper. 
 
-O grupo é formado por [**Arthur Cagliari**](https://github.com/arthurcagliari), **[Giseli Araujo](https://github.com/GiseliAraujo)**, **[Lais](https://github.com/laisbs0)**, Lucas Duarte e **[Vinicius de Melo](https://github.com/viniciusdmelo)**.
+O grupo é formado por [**Arthur Cagliari**](https://github.com/arthurcagliari), **[Giseli Araujo](https://github.com/GiseliAraujo)**, **[Lais Batista](https://github.com/laisbs0)**, **[Lucas Duarte](https://github.com/lucasduartematos)** e **[Vinicius de Melo](https://github.com/viniciusdmelo)**.
 
 O grupo utilizou duas bases de dados para o trabalho. A primeira é fornecida pelo Tribunal Superior Eleitoral (TSE) e traz dados sobre os candidatos às vagas de deputado estadual, deputado federal, governador e presidente da República nas eleições de 2022. 
 
