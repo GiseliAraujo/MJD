@@ -44,17 +44,15 @@ ___2 - Quantos candidatos do estado do Amazonas não se vacinaram em Manaus?___
 
 130 Candidatos
 
-`SELECT Count(c.Nr_cpf_candidato)`
-  `FROM candidatos2022 AS C`
-` WHERE SG_UF_NASCIMENTO = 'AM'`
-  ` AND NOT EXISTS (SELECT *` 
-                    ` FROM [Vacinados_AM]`
-                    `WHERE CPF = c.Nr_cpf_candidato)`
+```
+SELECT Count(c.Nr_cpf_candidato)
+  FROM candidatos2022 AS C
+ WHERE SG_UF_NASCIMENTO = 'AM'
+   AND NOT EXISTS (SELECT *
+                     FROM [Vacinados_AM]
+                    WHERE CPF = c.Nr_cpf_candidato)
                     
-                    ```js  
-
-Console.log(3 > 2) 
-
+                    
 ```
 
 ___3 - Quais candidatos do estado do Amazonas não se vacinaram em Manaus?___
