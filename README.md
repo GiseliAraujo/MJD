@@ -16,7 +16,7 @@ Esta primeira base tem dados desagregados por nome dos candidatos, cidade de ori
 
 A segunda base é disponibilizada pela Secretaria Municipal de Saúde do município de Manaus e apresenta dados de todas as pessoas vacinadas na cidade no período de 28 de agosto de 2021 a 21 de setembro de 2022. A secretaria fornece tais dados em documentos no formato PDF.
 
-✔ CSV - Clique nos links para ler e baixar os arquivos ([parte 1](https://www2.manaus.am.gov.br/docs/semsa/Lista%2011-06-2021.pdf), [parte 2](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2022-10-06_as_19h00min.pdf), [parte 3](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2021-08-27_as_19h00min%20(1).pdf), [parte 4](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2021-07-07_as_19h00min.pdf))
+✔ PDF - Clique nos links para ler e baixar os arquivos ([parte 1](https://www2.manaus.am.gov.br/docs/semsa/Lista%2011-06-2021.pdf), [parte 2](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2022-10-06_as_19h00min.pdf), [parte 3](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2021-08-27_as_19h00min%20(1).pdf), [parte 4](https://www2.manaus.am.gov.br/docs/semsa/Vacinados_2021-07-07_as_19h00min.pdf))
 OBS: Os arquivos originais não foram subidos no GitHub por serem maior que 25 MB.
 
 O trabalho final buscava cruzar as duas bases e descobrir quais candidatos a cargos políticos em 2022, nascidos em Manaus, não tinham tomado a vacina na cidade neste período indicado pela tabela. Como o documento da Prefeitura de Manaus estava disponibilizado em formato PDF, primeiro foi preciso fazer uma conversão do arquivo para algum outro formato em que se pudesse extrair os dados.
