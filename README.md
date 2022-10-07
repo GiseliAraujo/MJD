@@ -141,19 +141,67 @@ WHERE SG_UF_NASCIMENTO = 'AM'
 ___4 - Há candidatos do Amazonas para presidência ou governador do estado que não se vacinaram em Manaus? Quantos?___
 
 R.Não tem candidatos a Presidencia e 2 para Governadores(AMAZONINO ARMANDO MENDES e NAIR QUEIROZ BLAIR)
+
+``` 
+
+SELECT * 
+  FROM candidatos2022 AS C
+ WHERE DS_CARGO IN ('GOVERNADOR', 'PRESIDENTE')
+   AND NOT EXISTS (SELECT *
+                     FROM [Vacinados_AM]
+                    WHERE CPF = c.Nr_cpf_candidato)  
+ 
+ ```
     
 ___5 - Quantos candidatos no estado do Amazonas nasceram em Manaus?___
 
 R. 38 candidatos.
+
+
+``` 
+--Quantos candidatos
+
+SELECT  COUNT(* )
+FROM  candidatos2022 AS C
+WHERE NM_MUNICIPIO_NASCIMENTO = 'MANAUS'
+
+--Quem são os candidatos nascidos em Manaus?
+
+SELECT  * 
+FROM  candidatos2022 AS C
+WHERE NM_MUNICIPIO_NASCIMENTO = 'MANAUS'
+
+``` 
  
 ___6 - Qual é o partido predominante dos candidatos nascidos em Manaus e não vacinados em Manaus?____
 
 ![image](https://user-images.githubusercontent.com/114266007/194380275-e92f6fe1-cc07-45eb-bc99-8be31a282c1e.png)
 
+``` 
+SELECT COUNT(SG_PARTIDO ), SG_PARTIDO
+  FROM candidatos2022 AS C
+ WHERE SG_PARTIDO
+ GROUP BY SG_PARTIDO
+ ``` 
+
 
 ___7 - Há muitos candidatos indígenas nascidos em Manaus e não vacinados em Manaus?___
 
 R. 1 candidata, ANA CLAUDIA MARTINS TOMAS
+
+ ``` 
+-- Contar a quantidade de candidatos que são indigenas
+
+SELECT Count(* )
+  FROM candidatos2022 AS C
+ WHERE DS_COR_RACA = 'INDÍGENA'
+
+ -- Quem são os candidatos indigenas ?
+
+SELECT *
+  FROM candidatos2022 AS C
+ WHERE DS_COR_RACA = 'INDÍGENA'
+  ``` 
 
 ___8 - Qual era a cor/raça predominante dos candidatos nascidos em Manaus?___
 
@@ -161,6 +209,12 @@ ___8 - Qual era a cor/raça predominante dos candidatos nascidos em Manaus?___
 
 
 R. De acordo com os dados, 47 candidatos não-vacinados em Manaus se autodeclaram pardos. Esse número é 840% maior do que o número de candidatos indígenas (5), que  tem o menor número de autodeclarados. Os pardos representam 54,02% dos candidatos nas eleições gerais de 2022.
+
+  ``` 
+SELECT Count(* ) , DS_COR_RACA
+  FROM candidatos2022 AS C
+  GROUPY BY DS_COR_RACA
+    ``` 
 
 ___Caminhos possíveis a serem seguido para realização de pauta, com os insights obtidos por meio da análise de dados:___
 
