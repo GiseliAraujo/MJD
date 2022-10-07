@@ -27,6 +27,9 @@ Após isso, os dados foram tratados dentro do Excel, com a disponibilização da
 
 ✔ CSV - Clique nos links para ler e baixar os arquivos ([parte 1](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Primeiro.xlsx), [parte 2](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Segundo.xlsx), [parte 3](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/terceiro.xlsx), [parte 4](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Quarto.xlsx))
 
+Para construção da estrutura do Banco de dados, criamos um banco de dados chamado Amazonas com duas tabelas, contidas neste documento a seguir;
+✔ clique aqui para acessar o ([Dicionario de dados](https://github.com/GiseliAraujo/MJD-FUNDAMENTOS-E-TICA-DO-JORNALISMO-DE-DADOS/blob/main/Dicionário de Dados.pdf))
+
 ***#CONTEXTO DO TEMA***
 
 O grupo escolheu cruzar tais dados sobre candidatos não vacinados na cidade de Manaus, pois a capital amazonense ganhou repercussão internacional com a falta de oxigênio e o uso de medicamentos reconhecidamente ineficazes para o tratamento da covid-19 durante a pandemia. Daí o interesse em saber se atores que estavam se postulando a um cargo político não teriam deixado de tomar a vacina. A partir de tais nomes, o grupo seguiria uma investigação mais aprofundada sobre essas pessoas.
