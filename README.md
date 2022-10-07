@@ -214,7 +214,7 @@ R. De acordo com os dados, 47 candidatos não-vacinados em Manaus se autodeclara
 SELECT Count(* ) , DS_COR_RACA
   FROM candidatos2022 AS C
   GROUPY BY DS_COR_RACA
-    ``` 
+  ``` 
 
 ___Caminhos possíveis a serem seguido para realização de pauta, com os insights obtidos por meio da análise de dados:___
 
